@@ -1,0 +1,17 @@
+{
+  "edmx/API_BUSINESS_PARTNER.edmx": {
+    "packageName": "business-partner-service",
+    "directoryName": "business-partner-service",
+    "basePath": "/sap/opu/odata/sap/API_BUSINESS_PARTNER"
+  },
+  "edmx/NORTHWIND.edmx": {
+    "packageName": "north-wind-service",
+    "directoryName": "north-wind-service",
+    "basePath": "/V2/(S(1ebluu1cznhubkqqusiqbn1f))/OData/OData.svc/"
+  },
+  "edmx/NORTHWINDv4.edmx": {
+    "packageName": "north-wind-service-v4",
+    "directoryName": "north-wind-service-v4",
+    "basePath": "/V4/(S(zv1zkzj5ajxajfctaqmubpup))/OData/OData.svc/"
+  }
+}
