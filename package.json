@@ -72,7 +72,7 @@
         "reflect-metadata": "^0.1.13",
         "rxjs": "^7.2.0",
         "sap": "^0.0.2",
-        "typeorm": "^0.3.14"
+        "typeorm": "^0.3.16"
     },
     "devDependencies": {
         "@automapper/types": "^6.3.1",
