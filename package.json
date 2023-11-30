@@ -43,7 +43,7 @@
         "@nestjs/swagger": "^6.2.1",
         "@nestjs/typeorm": "^9.0.1",
         "@nestjs/websockets": "^9.4.0",
-        "@odata/client": "^2.21.4",
+        "@odata/client": "^2.21.6",
         "@sap-cloud-sdk/odata-common": "^3.1.0",
         "@sap-cloud-sdk/odata-v2": "^3.1.0",
         "@sap-cloud-sdk/odata-v4": "^3.1.0",
