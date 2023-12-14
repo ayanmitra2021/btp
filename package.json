@@ -68,7 +68,7 @@
         "passport-local": "^1.0.0",
         "pg": "^8.10.0",
         "pino-http": "^8.3.3",
-        "pino-pretty": "^9.4.0",
+        "pino-pretty": "^10.3.0",
         "reflect-metadata": "^0.1.13",
         "rxjs": "^7.2.0",
         "sap": "^0.0.2",
