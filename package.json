@@ -30,7 +30,7 @@
         "@automapper/classes": "^8.7.7",
         "@automapper/core": "^8.7.7",
         "@automapper/nestjs": "^8.7.7",
-        "@fastify/static": "^6.9.0",
+        "@fastify/static": "^7.0.0",
         "@nestjs/common": "^9.0.0",
         "@nestjs/config": "^2.3.1",
         "@nestjs/core": "^9.0.0",
@@ -38,7 +38,7 @@
         "@nestjs/jwt": "^10.0.2",
         "@nestjs/passport": "^9.0.3",
         "@nestjs/platform-express": "^9.4.0",
-        "@nestjs/platform-fastify": "^9.3.9",
+        "@nestjs/platform-fastify": "^10.3.2",
         "@nestjs/platform-ws": "^9.4.0",
         "@nestjs/swagger": "^6.2.1",
         "@nestjs/typeorm": "^9.0.1",
@@ -72,7 +72,7 @@
         "reflect-metadata": "^0.1.13",
         "rxjs": "^7.2.0",
         "sap": "^0.0.2",
-        "typeorm": "^0.3.14"
+        "typeorm": "^0.3.18"
     },
     "devDependencies": {
         "@automapper/types": "^6.3.1",
